@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jtaah@myseneca.ca
-- 👀 I’m interested in meeting new people and commuinicating
+- 👀 I’m interested in making a team and creating the next big thing
 - 🌱 I’m currently learning Computer Programming and analysis
-- 💞️ I’m looking to collaborate on any to add brains together to solve problems 
+- 💞️ I’m looking for a consistent team
 - 📫 How to reach me jtaah@myseneca.ca
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:Woman in Tech
+- ⚡ Fun fact:Woman in Tech,Consistency beats Talent.
 
 <!---
 JosclifTaah/JosclifTaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
